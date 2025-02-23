@@ -1,5 +1,5 @@
 let listaNumeros = []
-let numeroM = 30;
+let numeroM = 40;
 let numeroT = 0;
 let numeroS = numeroAleatorio();
 document.getElementById('reiniciar').setAttribute('Disabled', true);
